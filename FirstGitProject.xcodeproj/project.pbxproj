@@ -15,6 +15,8 @@
 		8F2200A21F8F3747008B700D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8F2200A01F8F3747008B700D /* LaunchScreen.storyboard */; };
 		8F2200A51F8F3747008B700D /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F2200A41F8F3747008B700D /* main.m */; };
 		8F2200AD1F8F572B008B700D /* Demo_Vc.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F2200AC1F8F572B008B700D /* Demo_Vc.m */; };
+		8F2200B31F8F58CF008B700D /* grrrrrrrrrr.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F2200B21F8F58CF008B700D /* grrrrrrrrrr.m */; };
+		8F2200B61F8F5972008B700D /* vasfgasdrewrwer.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F2200B51F8F5972008B700D /* vasfgasdrewrwer.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +33,10 @@
 		8F2200A41F8F3747008B700D /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		8F2200AB1F8F572B008B700D /* Demo_Vc.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Demo_Vc.h; sourceTree = "<group>"; };
 		8F2200AC1F8F572B008B700D /* Demo_Vc.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Demo_Vc.m; sourceTree = "<group>"; };
+		8F2200B11F8F58CF008B700D /* grrrrrrrrrr.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = grrrrrrrrrr.h; sourceTree = "<group>"; };
+		8F2200B21F8F58CF008B700D /* grrrrrrrrrr.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = grrrrrrrrrr.m; sourceTree = "<group>"; };
+		8F2200B41F8F5972008B700D /* vasfgasdrewrwer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = vasfgasdrewrwer.h; sourceTree = "<group>"; };
+		8F2200B51F8F5972008B700D /* vasfgasdrewrwer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = vasfgasdrewrwer.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +69,10 @@
 		8F2200911F8F3747008B700D /* FirstGitProject */ = {
 			isa = PBXGroup;
 			children = (
+				8F2200B11F8F58CF008B700D /* grrrrrrrrrr.h */,
+				8F2200B21F8F58CF008B700D /* grrrrrrrrrr.m */,
+				8F2200B41F8F5972008B700D /* vasfgasdrewrwer.h */,
+				8F2200B51F8F5972008B700D /* vasfgasdrewrwer.m */,
 				8F2200AB1F8F572B008B700D /* Demo_Vc.h */,
 				8F2200AC1F8F572B008B700D /* Demo_Vc.m */,
 				8F2200921F8F3747008B700D /* AppDelegate.h */,
@@ -151,10 +161,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				8F2200971F8F3747008B700D /* ViewController.m in Sources */,
+				8F2200B61F8F5972008B700D /* vasfgasdrewrwer.m in Sources */,
 				8F2200941F8F3747008B700D /* AppDelegate.m in Sources */,
 				8F2200AD1F8F572B008B700D /* Demo_Vc.m in Sources */,
 				8F2200A51F8F3747008B700D /* main.m in Sources */,
 				8F22009D1F8F3747008B700D /* FirstGitProject.xcdatamodeld in Sources */,
+				8F2200B31F8F58CF008B700D /* grrrrrrrrrr.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
