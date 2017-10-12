@@ -14,6 +14,7 @@
 		8F22009F1F8F3747008B700D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8F22009E1F8F3747008B700D /* Assets.xcassets */; };
 		8F2200A21F8F3747008B700D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8F2200A01F8F3747008B700D /* LaunchScreen.storyboard */; };
 		8F2200A51F8F3747008B700D /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F2200A41F8F3747008B700D /* main.m */; };
+		8F2200AD1F8F572B008B700D /* Demo_Vc.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F2200AC1F8F572B008B700D /* Demo_Vc.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,8 @@
 		8F2200A11F8F3747008B700D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8F2200A31F8F3747008B700D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8F2200A41F8F3747008B700D /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		8F2200AB1F8F572B008B700D /* Demo_Vc.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Demo_Vc.h; sourceTree = "<group>"; };
+		8F2200AC1F8F572B008B700D /* Demo_Vc.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Demo_Vc.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +63,8 @@
 		8F2200911F8F3747008B700D /* FirstGitProject */ = {
 			isa = PBXGroup;
 			children = (
+				8F2200AB1F8F572B008B700D /* Demo_Vc.h */,
+				8F2200AC1F8F572B008B700D /* Demo_Vc.m */,
 				8F2200921F8F3747008B700D /* AppDelegate.h */,
 				8F2200931F8F3747008B700D /* AppDelegate.m */,
 				8F2200951F8F3747008B700D /* ViewController.h */,
@@ -147,6 +152,7 @@
 			files = (
 				8F2200971F8F3747008B700D /* ViewController.m in Sources */,
 				8F2200941F8F3747008B700D /* AppDelegate.m in Sources */,
+				8F2200AD1F8F572B008B700D /* Demo_Vc.m in Sources */,
 				8F2200A51F8F3747008B700D /* main.m in Sources */,
 				8F22009D1F8F3747008B700D /* FirstGitProject.xcdatamodeld in Sources */,
 			);
